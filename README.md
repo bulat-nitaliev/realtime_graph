@@ -7,7 +7,7 @@ websocket
 
 ## Getting Started <a name = "getting_started"></a>
     python -m venv venv
-    git clone 
+    git clone https://github.com/bulat-nitaliev/realtime_graph.git
     
 
 
